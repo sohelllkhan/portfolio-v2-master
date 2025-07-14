@@ -101,11 +101,10 @@ export const projectsData = [
     // urlLink: "https://clownfish-app-48u2r.ondigitalocean.app/",
     githubLink: "https://github.com/sohelllkhan/my-project",
   },
-  
+  {
     title: "Dreamnest",
     description:
-      "DreamNest is a simple, clean React app that lets users browse and search real estate properties by location, showing images, prices, and details with a responsive design.
-  {",
+      "DreamNest is a simple, clean React app that lets users browse and search real estate properties by location, showing images, prices, and details with a responsive design.",
     tags: ["PHP", "Laravel", "JavaScript", "Tailwind", "MySQL"],
     icons: [
       "logos:laravel",
