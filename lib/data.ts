@@ -118,7 +118,7 @@ export const projectsData = [
     githubLink: "https://github.com/sohelllkhan/expense-tracker",
   },
   {
-    title: "ShoeVerse – Modern Shoe Store Websiter",
+    title: "ShoeVerse – Modern Shoe Store Website",
     description:
       "ShoeVerse is a full-stack web application for a modern shoe business. The frontend is built with React.js and Tailwind CSS, providing a clean, stylish, and fully responsive user interface. It dynamically loads products from a PHP + MySQL backend, allowing users to browse a curated collection of premium shoes.",
     tags: ["PHP", "Laravel", "JavaScript", "Tailwind", "MySQL"],
@@ -132,7 +132,7 @@ export const projectsData = [
     ],
     imageUrl: shoe,
     // urlLink: "https://clownfish-app-48u2r.ondigitalocean.app/",
-    githubLink: "https://github.com/sohelllkhan/business-websiter",
+    githubLink: "https://github.com/sohelllkhan/business-website",
   },
   
   // {
