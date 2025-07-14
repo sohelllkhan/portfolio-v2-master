@@ -65,8 +65,8 @@ export default function Intro() {
       >
         <span className="font-bold">Hello, I'm Sohel.</span> I'm currently a CSE student and mainly a{" "}
         <span className="font-bold">problem solver</span> on{" "}
-        <a href="https://codeforces.com" className="font-bold underline" target='_blank' style={{ textUnderlineOffset: '4px' }}>Codeforces </a> 
-        and{" "}<a href="https://leetcode.com" className="font-bold underline" target='_blank' style={{ textUnderlineOffset: '4px' }}>LeetCode</a>.
+        <a href="https://codeforces.com/profile/sohellkhan" className="font-bold underline" target='_blank' style={{ textUnderlineOffset: '4px' }}>Codeforces </a> 
+        and{" "}<a href="https://leetcode.com/u/sohellkhan/" className="font-bold underline" target='_blank' style={{ textUnderlineOffset: '4px' }}>LeetCode</a>.
         In my free time, I build and maintain full-stack systems — from modern frontends to event-driven backends.
       </motion.h1>
 
