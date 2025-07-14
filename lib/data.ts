@@ -15,6 +15,7 @@ import youpayLogo from "@/public/codeforceslodo.png";
 import m3Logo from "@/public/githublogo.png";
 import expense from "@/public/expense.png";
 import shoe from "@/public/shoe.png";
+import dreamnest from "@/public/dreamnest.png";
 
 export const links = [
   {
@@ -100,10 +101,11 @@ export const projectsData = [
     // urlLink: "https://clownfish-app-48u2r.ondigitalocean.app/",
     githubLink: "https://github.com/sohelllkhan/my-project",
   },
-  {
-    title: "Expense Tracker + Budget Planner",
+  
+    title: "Dreamnest",
     description:
-      "A simple and responsive web app built with React.js and Tailwind CSS to help users track daily expenses, manage budgets, and view spending summaries with a clean dashboard UI",
+      "DreamNest is a simple, clean React app that lets users browse and search real estate properties by location, showing images, prices, and details with a responsive design.
+  {",
     tags: ["PHP", "Laravel", "JavaScript", "Tailwind", "MySQL"],
     icons: [
       "logos:laravel",
@@ -113,9 +115,9 @@ export const projectsData = [
       "logos:mysql",
      
     ],
-    imageUrl: expense,
+    imageUrl: dreamnest,
     // urlLink: "https://clownfish-app-48u2r.ondigitalocean.app/",
-    githubLink: "https://github.com/sohelllkhan/expense-tracker",
+    githubLink: "https://github.com/sohelllkhan/dreamnest",
   },
   {
     title: "ShoeVerse – Modern Shoe Store Website",
@@ -133,6 +135,23 @@ export const projectsData = [
     imageUrl: shoe,
     // urlLink: "https://clownfish-app-48u2r.ondigitalocean.app/",
     githubLink: "https://github.com/sohelllkhan/business-website",
+  },
+   {
+    title: "Expense Tracker + Budget Planner",
+    description:
+      "A simple and responsive web app built with React.js and Tailwind CSS to help users track daily expenses, manage budgets, and view spending summaries with a clean dashboard UI",
+    tags: ["PHP", "Laravel", "JavaScript", "Tailwind", "MySQL"],
+    icons: [
+      "logos:laravel",
+      "logos:php",
+      "logos:javascript",
+      "devicon:tailwindcss",
+      "logos:mysql",
+     
+    ],
+    imageUrl: expense,
+    // urlLink: "https://clownfish-app-48u2r.ondigitalocean.app/",
+    githubLink: "https://github.com/sohelllkhan/expense-tracker",
   },
   
   // {
