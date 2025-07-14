@@ -14,6 +14,7 @@ import uqLogo from "@/public/bou-logo.png";
 import youpayLogo from "@/public/codeforceslodo.png";
 import m3Logo from "@/public/githublogo.png";
 import expense from "@/public/expense.png";
+import shoe from "@/public/shoe.png";
 
 export const links = [
   {
@@ -115,6 +116,23 @@ export const projectsData = [
     imageUrl: expense,
     // urlLink: "https://clownfish-app-48u2r.ondigitalocean.app/",
     githubLink: "https://github.com/sohelllkhan/expense-tracker",
+  },
+  {
+    title: "ShoeVerse – Modern Shoe Store Websiter",
+    description:
+      "ShoeVerse is a full-stack web application for a modern shoe business. The frontend is built with React.js and Tailwind CSS, providing a clean, stylish, and fully responsive user interface. It dynamically loads products from a PHP + MySQL backend, allowing users to browse a curated collection of premium shoes.",
+    tags: ["PHP", "Laravel", "JavaScript", "Tailwind", "MySQL"],
+    icons: [
+      "logos:laravel",
+      "logos:php",
+      "logos:javascript",
+      "devicon:tailwindcss",
+      "logos:mysql",
+     
+    ],
+    imageUrl: shoe,
+    // urlLink: "https://clownfish-app-48u2r.ondigitalocean.app/",
+    githubLink: "https://github.com/sohelllkhan/business-websiter",
   },
   
   // {
