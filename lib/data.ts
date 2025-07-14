@@ -13,6 +13,7 @@ import humanforceLogo from "@/public/upwork-logo.png";
 import uqLogo from "@/public/bou-logo.png";
 import youpayLogo from "@/public/codeforceslodo.png";
 import m3Logo from "@/public/githublogo.png";
+import expense from "@/public/expense.png";
 
 export const links = [
   {
@@ -99,9 +100,9 @@ export const projectsData = [
     githubLink: "https://github.com/sohelllkhan/my-project",
   },
   {
-    title: "Smart Blood Hub",
+    title: "Expense Tracker + Budget Planner",
     description:
-      "Smart Blood Hub is a modern web-based blood bank system designed to connect blood donors, recipients, and hospitals in a fast and reliable way. Its main goal is to make the blood donation process easier, safer, and more efficient, especially during emergencies. Users can register as donors, search for blood based on group or location. The system can also track nearby donors using GPS.",
+      "A simple and responsive web app built with React.js and Tailwind CSS to help users track daily expenses, manage budgets, and view spending summaries with a clean dashboard UI",
     tags: ["PHP", "Laravel", "JavaScript", "Tailwind", "MySQL"],
     icons: [
       "logos:laravel",
@@ -111,9 +112,9 @@ export const projectsData = [
       "logos:mysql",
      
     ],
-    imageUrl: ozdevsImg,
+    imageUrl: expense,
     // urlLink: "https://clownfish-app-48u2r.ondigitalocean.app/",
-    githubLink: "https://github.com/sohelllkhan/my-project",
+    githubLink: "https://github.com/sohelllkhan/expense-tracker",
   },
   
   // {
